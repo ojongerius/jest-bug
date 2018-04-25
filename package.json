@@ -1,0 +1,17 @@
+{
+  "name": "jest-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ojongerius/jest-bug.git",
+  "author": "Otto Jongerius <otto.jongerius@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^22.4.3",
+    "mongodb": "^3.0.7",
+    "mongodb-memory-server": "^1.7.3"
+  },
+  "scripts": {
+      "test-inband": "jest --runInBand --no-cache",
+      "test": "jest --no-cache"
+  }
+}
