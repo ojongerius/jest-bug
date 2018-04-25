@@ -1,5 +1,7 @@
 # jest-bug
 
+Repo to illustrate https://github.com/facebook/jest/issues/6063
+
 Running `yarn test` will run Jest tests in parallel, and fail:
 
 ```sh
