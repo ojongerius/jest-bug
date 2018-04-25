@@ -1,6 +1,6 @@
 # jest-bug
 
-Repo to illustrate https://github.com/facebook/jest/issues/6063
+Repo to illustrate https://github.com/facebook/jest/issues/6063, uses code from https://github.com/vladgolubev/jest-mongodb.
 
 Running `yarn test` will run Jest tests in parallel, and fail:
 
